@@ -41,7 +41,7 @@ We'd love it if you also **share your experience on social media**! You can use 
 ## Suggested resources 🚀
 
 * [Visual Studio Code](https://code.visualstudio.com?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ)
-* Azure Subscription: DM [on Twitter](https://twitter.com/msdev_nl) or [sign up](https://azure.microsoft.com/en-us/free/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ) for a free Azure account
+* Azure Subscription: [Send us a DM on Twitter](https://twitter.com/msdev_nl) or [sign up](https://azure.microsoft.com/en-us/free/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ) for a free Azure account
 * [Terraform](https://www.terraform.io/)
 
 ## Contributing 🚩
