@@ -2,7 +2,7 @@
 
 ![Space Badger](assets/Badger-ToA.png)
 
-Our Azure Heroes badger has a startup idea that is out of this world! For their interstellar delivery service, they need your help developing an app leveraging the best of Terraform, Azure, and Azure managed Kubernetes. Help them deploy their application, so they can concentrate on the quality of their galactic snacks.
+Our [Azure Heroes](https://aka.ms/azure.heroes) badger has a startup idea that is out of this world! For their interstellar delivery service, they need your help developing an app leveraging the best of Terraform, Azure, and Azure managed Kubernetes. Help them deploy their application, so they can concentrate on the quality of their galactic snacks.
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
