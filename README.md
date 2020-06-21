@@ -6,11 +6,17 @@ Our Azure Heroes badger has a startup idea that is out of this world! For their 
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
+
 ## How does it work? 🧰
 
 This week (June 22-26), while HashiConf Digital takes place, we're releasing a **daily #TerraformOnAzure coding challenge**. You have **24 hours** to submit the solution for a coding challenge, before we publish a possible solution in this repo.
 
-Of course, you're free to continue to work longer on your coding challenge and submit that too! We want to learn from you as well! The goal is for everyone to learn and expore.
+Of course, you're free to continue to work longer on your coding challenge and still it! We want to learn from you as well! The goal is for everyone to learn and expore.
+
+We will release the first coding challenge on **Monday, June 22, at 2PM CEST sharp** ⌚, right after the [HashiConf keynote](https://hashiconf.com/digital-june/).
+
+Join, participate in all challenges, and claim your exclusive space-themed gift 🎁!
+
 
 ## Challenges 💻
 
