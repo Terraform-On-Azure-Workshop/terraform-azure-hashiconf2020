@@ -35,7 +35,8 @@ You can find the detailed instructions in our [Contributing.md](Contributing.md)
 
 * Submit your solution as a [Challenge Solution Submission ISSUE](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) to this GitHub repository.
 
-We'd love it if you also share your experience on social media! You can use the #TerraformOnAzure Twitter hashtag to do so.
+We'd love it if you also **share your experience on social media**! You can use the **#TerraformOnAzure** Twitter hashtag to do so.
+
 
 ## Suggested resources 🚀
 
