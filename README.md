@@ -2,7 +2,7 @@
 
 ![Space Badger](assets/Badger-ToA.png)
 
-Our [Azure Heroes](https://aka.ms/azure.heroes) badger has a startup idea that is out of this world! For their interstellar delivery service, they need your help developing an app leveraging the best of Terraform, Azure, and Azure managed Kubernetes. Help them deploy their application, so they can concentrate on the quality of their galactic snacks.
+Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ) badger has a startup idea that is out of this world! For their interstellar delivery service, they need your help developing an app leveraging the best of Terraform, Azure, and Azure managed Kubernetes. Help them deploy their application, so they can concentrate on the quality of their galactic snacks.
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
@@ -40,8 +40,8 @@ We'd love it if you also **share your experience on social media**! You can use 
 
 ## Suggested resources 🚀
 
-* [Visual Studio Code](https://code.visualstudio.com)
-* Azure Subscription: DM [on Twitter](https://twitter.com/msdev_nl) or [sign up](https://azure.microsoft.com/en-us/free/) for a free Azure account
+* [Visual Studio Code](https://code.visualstudio.com?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ)
+* Azure Subscription: DM [on Twitter](https://twitter.com/msdev_nl) or [sign up](https://azure.microsoft.com/en-us/free/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ) for a free Azure account
 * [Terraform](https://www.terraform.io/)
 
 ## Contributing 🚩
