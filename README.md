@@ -12,6 +12,17 @@ This week (June 22-26), while HashiConf Digital takes place, we're releasing a *
 
 Of course, you're free to continue to work longer on your coding challenge and submit that too! We want to learn from you as well! The goal is for everyone to learn and expore.
 
+## Challenges 💻
+
+| Date | Challenge | Description |
+| ---- | --------- | ----------- |
+| June 22, 2020 | TBA | TBA |
+| June 23, 2020 | TBA | TBA |
+| June 24, 2020 | TBA | TBA |
+| June 25, 2020 | TBA | TBA |
+| June 26, 2020 | TBA | TBA |
+
+
 ## Submit your solutions? 🔥
 
 You can find the detailed instructions in our [Contributing.md](Contributing.md) guidelines, but here's the TL;DR.
