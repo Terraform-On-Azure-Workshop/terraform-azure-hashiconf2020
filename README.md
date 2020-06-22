@@ -4,23 +4,23 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
+**Watch** our [introduction video]() to learn all about it!
+
 
 ## How does it work? 🧰
 
-This week (June 22-26), while HashiConf Digital takes place, we're releasing a **daily #TerraformOnAzure coding challenge**. You have **24 hours** to submit the solution for a coding challenge, before we publish a possible solution in this repo.
+This week (June 22-26), while HashiConf Digital takes place, we're releasing a **daily #TerraformOnAzure coding challenge**. You have **24 hours** to submit your coding challenge solution, before we will publish ours in this repo.
 
 Of course, you're free to continue to work longer on your coding challenge and still it! We want to learn from you as well! The goal is for everyone to learn and expore.
 
-We will release the first coding challenge on **Monday, June 22, at 2PM CEST sharp** ⌚, right after the [HashiConf keynote](https://hashiconf.com/digital-june/).
-
-Join, participate in all challenges, and claim your exclusive space-themed gift 🎁!
+Join, and claim your exclusive space-themed gift 🎁!
 
 
 ## Challenges 💻
 
 | Date | Challenge | Description |
 | ---- | --------- | ----------- |
-| June 22, 2020 | TBA | TBA |
+| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Hosting a website on Azure App Service |
 | June 23, 2020 | TBA | TBA |
 | June 24, 2020 | TBA | TBA |
 | June 25, 2020 | TBA | TBA |
