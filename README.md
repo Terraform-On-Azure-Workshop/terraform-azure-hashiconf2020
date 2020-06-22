@@ -4,7 +4,11 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
-**Watch** our [introduction video](https://aka.ms/tfonazure/vid/day1) to learn all about it!
+**Click** on the [introduction video](https://aka.ms/tfonazure/vid/day1) below to learn all about it!
+
+<a href="https://aka.ms/tfonazure/vid/day1" target=blank>
+<img src='https://img.youtube.com/vi/56tTDamp8DE/hqdefault.jpg' />
+</a>
 
 
 ## How does it work? 🧰
