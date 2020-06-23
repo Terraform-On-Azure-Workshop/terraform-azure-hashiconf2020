@@ -6,9 +6,11 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 **Click** on the [introduction video](https://aka.ms/tfonazure/vid/day1) below to learn all about it!
 
-<a href="https://aka.ms/tfonazure/vid/day1" target=blank>
-<img src='https://img.youtube.com/vi/56tTDamp8DE/hqdefault.jpg' />
+<a href="https://aka.ms/tfonazure/vid/day2" target=blank>
+<img src='https://img.youtube.com/vi/xGBLGBdHZJ4/hqdefault.jpg' />
 </a>
+
+Coding Challenge 2 is now available for you to work on!
 
 
 ## How does it work? 🧰
@@ -22,13 +24,13 @@ Join, and claim your exclusive space-themed gift 🎁!
 
 ## Challenges 💻
 
-| Date | Challenge | Description |
-| ---- | --------- | ----------- |
-| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Hosting a website on Azure App Service |
-| June 23, 2020 | TBA | TBA |
-| June 24, 2020 | TBA | TBA |
-| June 25, 2020 | TBA | TBA |
-| June 26, 2020 | TBA | TBA |
+| Date | Challenge | Description | Video | Solution |
+| ---- | --------- | ----------- | ----- | -------- |
+| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Deploying an Azure App Service using Terraform CLI and the Azure CLI |[day1](https://aka.ms/tfonazure/vid/day1) | [Solution](./challenges/challenge1/Solution.md) |
+| June 23, 2020 | [Challenge 2](./challenges/challenge2/Readme.md) | Deploying databases on Azure using Terraform CLI | [day2](https://aka.ms/tfonazure/vid/day2) |TBA |
+| June 24, 2020 | TBA | TBA | TBA | TBA |
+| June 25, 2020 | TBA | TBA | TBA | TBA |
+| June 26, 2020 | TBA | TBA | TBA | TBA |
 
 
 ## Submit your solutions? 🔥
