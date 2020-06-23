@@ -37,7 +37,7 @@ Join, and claim your exclusive space-themed gift 🎁!
 
 You can find the detailed instructions in our [Contributing.md](Contributing.md) guidelines, but here's the TL;DR.
 
-* Submit your solution as a [Challenge Solution Submission ISSUE](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) to this GitHub repository.
+* Submit your solution as a new [Challenge Solution Submission ISSUE](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) for each challenge to this GitHub repository.
 
 We'd love it if you also **share your experience on social media**! You can use the **#TerraformOnAzure** Twitter hashtag to do so.
 

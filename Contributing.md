@@ -24,7 +24,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 Within 24 hours of making the coding challenge public, submit your solution as a Challenge Solution Submission ISSUE to this GitHub repository.
 
  1. Create your own Github repo with your solution for that challenge.
- 2. Create [Challenge Solution Submission issue](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) in our repo and fill all the details.
+ 2. Create a new [Challenge Solution Submission issue](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) in our repo for each challenge and fill all the details.
  3. Submit the issue.
 
 Have questions or comments? Submit a regular [ISSUE](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) here with details.

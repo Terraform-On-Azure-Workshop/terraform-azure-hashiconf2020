@@ -29,8 +29,8 @@ To successfully complete this challenge, you will have to:
 
 Within 24 hours of making the coding challenge public, submit your solution as a custom ISSUE to this GitHub repository.
 
- 1. Create your own Github repo containing your solution for that challenge.
- 2. Create a [Challenge Solution Submission ISSUE](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) in our repo and fill all the details.
+ 1. Create your own Github repo with your solution for that challenge.
+ 2. Create a new [Challenge Solution Submission issue](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) in our repo for each challenge and fill all the details.
  3. Submit the issue.
 
 ## Prerequisites
