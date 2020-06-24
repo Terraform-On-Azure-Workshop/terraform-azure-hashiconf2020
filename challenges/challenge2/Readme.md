@@ -24,6 +24,8 @@ To successfully complete this challenge, you will have to:
 * Use the Azure CLI to deploy the sample application from a GitHub repo, using Azure App Service Deployment Center Continuous Deployment (not using GitHub Actions at this time!).
 * Connect the sample application in Azure App Service to both databases, by configuring the App Settings through Terraform configuration.
 
+Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
+
 
 ## How to submit your solution?
 
@@ -32,6 +34,7 @@ Within 24 hours of making the coding challenge public, submit your solution as a
  1. Create your own Github repo with your solution for that challenge.
  2. Create a new [Challenge Solution Submission issue](https://github.com/Terraform-On-Azure-Workshop/terraform-azure-hashiconf2020/issues/new/choose) in our repo for each challenge and fill all the details.
  3. Submit the issue.
+
 
 ## Prerequisites
 
