@@ -1,4 +1,4 @@
-# Challenge 4: moving to a production setup
+# Challenge 4: Deploying to Azure Kubernetes Service
 
 ![Rocket Lift-off](../assets/Liftoff-Badger-400x400.png)
 
