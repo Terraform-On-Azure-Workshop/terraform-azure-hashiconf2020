@@ -1,0 +1,59 @@
+name: 'Terraform'
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    terraform:
+        name: 'Terraform provisioning'
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout
+          uses: actions/checkout@v2
+
+        - name: Setup Terraform
+          uses: hashicorp/setup-terraform@v1
+
+        - name: Terraform Init
+          env:
+            ARM_CLIENT_ID: ${{ secrets.ARM_CLIENT_ID }}
+            ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
+            ARM_SUBSCRIPTION_ID: ${{ secrets.ARM_SUBSCRIPTION_ID }}
+            ARM_TENANT_ID: ${{ secrets.ARM_TENANT_ID }}
+            ARM_ACCESS_KEY: ${{ secrets.ARM_SECRET_KEY }}
+          run: terraform init
+    
+        - name: Terraform Validate
+          run: terraform validate
+
+        - name: Terraform Apply
+          env:
+            ARM_CLIENT_ID: ${{ secrets.ARM_CLIENT_ID }}
+            ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
+            ARM_SUBSCRIPTION_ID: ${{ secrets.ARM_SUBSCRIPTION_ID }}
+            ARM_TENANT_ID: ${{ secrets.ARM_TENANT_ID }}
+            ARM_ACCESS_KEY: ${{ secrets.ARM_SECRET_KEY }}
+          run: terraform apply -auto-approve
+    
+    deploy:
+        needs: terraform
+        name: 'Deploy application on Azure'
+        runs-on: ubuntu-latest
+        steps:
+        - name: Azure Login
+          uses: azure/login@v1
+          with:
+            creds: ${{ secrets.AZURE_CREDENTIALS }}
+        - name: Azure CLI script
+          uses: azure/CLI@v1
+          with:
+            azcliversion: 2.7.0
+            inlineScript: |
+            az webapp deployment source config --branch $branch --manual-integration --name $AppServiceName --repo-url $GitHubRepo --resource-group $ResourceGroupName
+          env:
+            GitHubRepo: https://github.com/microsoft/TailwindTraders-Website
+            branch: main
+            AppServiceName: toa-appservice
+            ResourceGroupName: toa-resources

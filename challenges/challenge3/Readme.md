@@ -9,7 +9,7 @@
 
 So far, you have been working on your local developer machine to provision and deploy the application. In this third challenge, you will setup a **Continuous Integration/Continuous Deployment (CI/CD) pipeline using [GitHub Actions](https://help.github.com/en/actions)**.
 
-However, when running Terraform locally it also stores the current state of the infrastructure in a local file. When running a CI/CD pipeline, or when working in a team, you need to share the current state of the infrastructure. Terraform allows you to define remote state in a central location. In this challenge, you will configure the Terraform CLI to **[store the remote state in Azure Storage](https://docs.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage)**.
+However, when running Terraform locally it also stores the current state of the infrastructure in a local file. When running a CI/CD pipeline, or when working in a team, you need to share the current state of the infrastructure. Terraform allows you to define remote state in a central location. In this challenge, you will configure the Terraform CLI to **[store the remote state in Azure Storage](https://docs.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ)**.
 
 Also, keep in mind that when you run Terraform locally, you typically authenticate interactively as a user to the Azure CLI. In a CI/CD pipeline, there is no interactive user session, so you will need to **[authenticate to Azure using a Service Principal](https://www.terraform.io/docs/providers/azurerm/guides/service_principal_client_secret.html)**.
 
@@ -25,6 +25,9 @@ To successfully complete this challenge, you will need to:
     * runs the Terraform CLI to provision the Azure infrastructure resources,
     * runs the Azure CLI to deploy the sample application to Azure App Service
 
+Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
+
+
 ## How to submit your solution?
 
 Within 24 hours of making the coding challenge public, submit your solution as a custom ISSUE to this GitHub repository.
@@ -35,7 +38,7 @@ Within 24 hours of making the coding challenge public, submit your solution as a
 
 ## Prerequisites
 
-- An Azure subscription, where you have permissions to create resource groups. You can get an [Azure free account](https://azure.microsoft.com/en-us/free/) or send us a DM us [on Twitter](https://twitter.com/msdev_nl) and we'll provide you with an Azure Pass.
+- An Azure subscription, where you have permissions to create resource groups. You can get an [Azure free account](https://azure.microsoft.com/en-us/free/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ) or send us a DM us [on Twitter](https://twitter.com/msdev_nl) and we'll provide you with an Azure Pass.
 - A [GitHub account](https://github.com/), allowing you to create a custom issue to submit your solution. 
 - Fork the [sample application](https://github.com/Terraform-On-Azure-Workshop/AzureEats-Website) to your GitHub account.
 
@@ -50,7 +53,7 @@ Within 24 hours of making the coding challenge public, submit your solution as a
 * ✅ [Terraform GitHub Actions documentation](https://www.terraform.io/docs/github-actions/setup-terraform.html)
 * ✅ [Authenticating using a Service Principal](https://www.terraform.io/docs/providers/azurerm/guides/service_principal_client_secret.html)
 * ✅ [GitHub Actions documentation](https://help.github.com/en/actions)
-* ✅ [Store state in Azure Storage](https://docs.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage)
+* ✅ [Store state in Azure Storage](https://docs.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ)
 
 ## Questions? Comments? 🙋‍♀️
 
@@ -60,4 +63,4 @@ Make sure to mention which challenge is problematic. We'll get back to you soon!
 
 ## I don't have an Azure subscription! 🆘
 
-If you don't have an Azure subscription yet, you can DM us [on Twitter](https://twitter.com/msdev_nl) and we'll provide you with a 30-day Azure subscription! Alternatively, you can also [sign up](https://azure.microsoft.com/en-us/free/) for an Azure free account.
+If you don't have an Azure subscription yet, you can DM us [on Twitter](https://twitter.com/msdev_nl) and we'll provide you with a 30-day Azure subscription! Alternatively, you can also [sign up](https://azure.microsoft.com/en-us/free/?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ) for an Azure free account.
