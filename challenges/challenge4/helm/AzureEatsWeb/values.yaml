@@ -1,0 +1,18 @@
+environment: production
+
+apphost: k8s
+
+label:
+  name: azureeatsweb
+
+container:
+  name: azureeats
+  pullPolicy: IfNotPresent
+  image: ttacrze222xbozcumm.azurecr.io/azureeats
+  tag: v1
+  port: 80
+replicas: 3
+
+service:
+  port: 80
+  type: LoadBalancer

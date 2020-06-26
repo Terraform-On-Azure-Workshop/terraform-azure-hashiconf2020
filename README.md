@@ -6,11 +6,11 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 **Click** on the [introduction video](https://aka.ms/tfonazure/vid/day1) below to learn all about it!
 
-<a href="https://aka.ms/tfonazure/vid/day4" target=blank>
+<a href="https://aka.ms/tfonazure/vid/day5" target=blank>
 <img src='https://img.youtube.com/vi/V6SkF1EpOOc/hqdefault.jpg' />
 </a>
 
-Coding Challenge 4 is now available for you to work on!
+Our **Final** Coding Challenge #5 is now available for you to work on!
 
 
 ## How does it work? 🧰
@@ -29,8 +29,8 @@ Join, and claim your exclusive space-themed gift 🎁!
 | June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Deploying an Azure App Service using Terraform CLI and the Azure CLI |[day1](https://aka.ms/tfonazure/vid/day1) | [Solution](./challenges/challenge1/Solution.md) |
 | June 23, 2020 | [Challenge 2](./challenges/challenge2/Readme.md) | Deploying databases on Azure using Terraform CLI | [day2](https://aka.ms/tfonazure/vid/day2) | [Solution](./challenges/challenge2/Solution.md) |
 | June 24, 2020 | [Challenge 3](./challenges/challenge3/Readme.md) | Remote state and CI/CD with GitHub Actions | [day3](https://aka.ms/tfonazure/vid/day3) | [Solution](./challenges/challenge3/Solution.md) |
-| June 25, 2020 | [Challenge 4](./challenges/challenge4/Readme.md) | Deploying on Azure Kubernetes Service | [day4](https://aka.ms/tfonazure/vid/day4) | TBA |
-| June 26, 2020 | TBA | TBA | TBA | TBA |
+| June 25, 2020 | [Challenge 4](./challenges/challenge4/Readme.md) | Deploying on Azure Kubernetes Service | [day4](https://aka.ms/tfonazure/vid/day4) | [Solution](./challenges/challenge4/Solution.md) |
+| June 26, 2020 | [Challenge 5](./challenges/challenge5/README.md) | Connecting it all with Consul | [day5](https://aka.ms/tfonazure/vid/day5) | TBA |
 
 
 ## Submit your solutions? 🔥

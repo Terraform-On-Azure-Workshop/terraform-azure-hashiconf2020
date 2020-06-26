@@ -34,6 +34,8 @@ To successfully complete this challenge, you will need to:
 2. Use the Terraform CLI to provision an AKS cluster.
 3. Deploy the [sample application](https://github.com/Terraform-On-Azure-Workshop/AzureEats-Website) on the AKS cluster using Helm
 
+Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
+
 
 ## How to submit your solution?
 
