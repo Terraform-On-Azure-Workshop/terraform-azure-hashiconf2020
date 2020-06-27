@@ -30,7 +30,7 @@ Join, and claim your exclusive space-themed gift 🎁!
 | June 23, 2020 | [Challenge 2](./challenges/challenge2/Readme.md) | Deploying databases on Azure using Terraform CLI | [day2](https://aka.ms/tfonazure/vid/day2) | [Solution](./challenges/challenge2/Solution.md) |
 | June 24, 2020 | [Challenge 3](./challenges/challenge3/Readme.md) | Remote state and CI/CD with GitHub Actions | [day3](https://aka.ms/tfonazure/vid/day3) | [Solution](./challenges/challenge3/Solution.md) |
 | June 25, 2020 | [Challenge 4](./challenges/challenge4/Readme.md) | Deploying on Azure Kubernetes Service | [day4](https://aka.ms/tfonazure/vid/day4) | [Solution](./challenges/challenge4/Solution.md) |
-| June 26, 2020 | [Challenge 5](./challenges/challenge5/README.md) | Connecting it all with Consul | [day5](https://aka.ms/tfonazure/vid/day5) | TBA |
+| June 26, 2020 | [Challenge 5](./challenges/challenge5/README.md) | Connecting it all with Consul | [day5](https://aka.ms/tfonazure/vid/day5) | [Solution](./challenges/challenge5/Solution.md) |
 
 
 ## Submit your solutions? 🔥

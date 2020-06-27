@@ -26,6 +26,9 @@ This can be done by [creating a static IP](https://www.terraform.io/docs/provide
 To check if your cluster has successfully joined the other clusters, you can run `consul members -wan` inside the consul-server-0 pod of your AKS cluster.
 You should see a similar output as below, including `consul-server-0.<your datacenter>` and anyone else that has federated their cluster for this challenge.
 
+Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
+
+
 ```shell
 / # consul members -wan
 Node                  Address           Status  Type    Build       Protocol  DC     Segment
