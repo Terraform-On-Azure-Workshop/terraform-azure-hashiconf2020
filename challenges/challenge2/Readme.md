@@ -48,7 +48,7 @@ There are different ways to get started with Terraform. The easiest is to use th
 
 ## Running the application in frontend mode
 
-To connect to the application databases, you will need to configure both database connection strings in the [application settings](https://docs.microsoft.com/en-us/azure/app-service/configure-common?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ). These need to specified on the Azure App Service.
+To connect to the application databases, you will need to configure both database connection strings in the [application settings](https://docs.microsoft.com/en-us/azure/app-service/configure-common?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ). These need to be specified on the Azure App Service.
 
 | Setting | Value |
 | :------ | :---- |

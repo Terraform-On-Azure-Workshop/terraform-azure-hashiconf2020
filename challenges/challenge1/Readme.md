@@ -48,7 +48,7 @@ There are different ways to get started with Terraform. The easiest is to use th
 
 ## Running the application in frontend mode
 
-To run the application in frontend mode, you need to [configure a number of application settings](https://docs.microsoft.com/en-us/azure/app-service/configure-common?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ). These need to specified on the Azure App Service.
+To run the application in frontend mode, you need to [configure a number of application settings](https://docs.microsoft.com/en-us/azure/app-service/configure-common?ocid=aid3015373_ThankYou_DevComm&eventId=HashiConfTerraformonAzure_JK1-K2-hoArJ). These need to be specified on the Azure App Service.
 
 | Setting | Value |
 | :------ | :---- |
