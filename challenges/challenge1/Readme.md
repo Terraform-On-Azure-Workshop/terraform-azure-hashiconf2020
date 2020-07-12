@@ -24,9 +24,6 @@ To successfully complete this challenge, you will
 * Use the Azure CLI to deploy the sample application from a GitHub repo, using Azure App Service Deployment Center Continuous Deployment (not using GitHub Actions at this time!).
 
 
-Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
-
-
 ## How to submit your solution?
 
 Within 24 hours of making the coding challenge public, submit your solution as a custom ISSUE to this GitHub repository.

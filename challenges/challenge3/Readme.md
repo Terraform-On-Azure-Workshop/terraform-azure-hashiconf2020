@@ -25,8 +25,6 @@ To successfully complete this challenge, you will need to:
     * runs the Terraform CLI to provision the Azure infrastructure resources,
     * runs the Azure CLI to deploy the sample application to Azure App Service
 
-Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
-
 
 ## How to submit your solution?
 

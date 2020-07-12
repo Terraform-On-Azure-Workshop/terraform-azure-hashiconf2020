@@ -24,8 +24,6 @@ To successfully complete this challenge, you will have to:
 * Use the Azure CLI to deploy the sample application from a GitHub repo, using Azure App Service Deployment Center Continuous Deployment (not using GitHub Actions at this time!).
 * Connect the sample application in Azure App Service to both databases, by configuring the App Settings through Terraform configuration.
 
-Spoiler: the [solution](./Solution.md) to this coding challenge is now available.
-
 
 ## How to submit your solution?
 
