@@ -4,7 +4,7 @@ Our [Azure Heroes](https://aka.ms/azure.heroes?ocid=aid3015373_ThankYou_DevComm&
 
 *Are you ready to show off your Terraform and Azure skills to send our astronaut badger into space?*
 
-**Click** on the [introduction video](https://youtu.be/56tTDamp8DE) below to learn all about it!
+**Click** on the [introduction video](https://aka.ms/tfonazure/vid/day1) below to learn all about it!
 
 <a href="https://aka.ms/tfonazure/vid/day5" target=blank>
 <img src='https://img.youtube.com/vi/V6SkF1EpOOc/hqdefault.jpg' />
@@ -28,7 +28,7 @@ Get your exclusive [space-themed gift](./challenges/assets/TerraformOnAzure-Back
 
 | Date | Challenge | Description | Video | 
 | ---- | --------- | ----------- | ----- | 
-| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Deploying an Azure App Service using Terraform CLI and the Azure CLI |[day1](https://youtu.be/56tTDamp8DE) | 
+| June 22, 2020 | [Challenge 1](./challenges/challenge1/Readme.md) | Deploying an Azure App Service using Terraform CLI and the Azure CLI |[day1](https://aka.ms/tfonazure/vid/day1) | 
 | June 23, 2020 | [Challenge 2](./challenges/challenge2/Readme.md) | Deploying databases on Azure using Terraform CLI | [day2](https://aka.ms/tfonazure/vid/day2) | 
 | June 24, 2020 | [Challenge 3](./challenges/challenge3/Readme.md) | Remote state and CI/CD with GitHub Actions | [day3](https://aka.ms/tfonazure/vid/day3) | 
 | June 25, 2020 | [Challenge 4](./challenges/challenge4/Readme.md) | Deploying on Azure Kubernetes Service | [day4](https://aka.ms/tfonazure/vid/day4) | 
