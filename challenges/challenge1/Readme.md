@@ -2,7 +2,7 @@
 
 ![Astronaut Badger](../assets/Space-Badger-no-circle-smaller.jpg)
 
-**Watch** our [introduction video](https://aka.ms/tfonazure/vid/day1) to learn all about #TerraformOnAzure coding challenge!
+**Watch** our [introduction video](https://youtu.be/56tTDamp8DE) to learn all about #TerraformOnAzure coding challenge!
 
 
 ## Description
